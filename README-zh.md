@@ -1,15 +1,15 @@
-[Introduction-of-documents](README.md) [English document](README-en.md)
+Introduction-of-documents](README.md) [English document](README-en.md)
 
 # 说明
 这是一个grub2的主题
-![参考图片](picture/003.png)
-[参考图片](picture/003.png)
+![参考图片](https://xuehrs.github.io/2018/05/01/grub2%E7%BE%8E%E5%8C%96/003.png)
+[参考图片](https://xuehrs.github.io/2018/05/01/grub2%E7%BE%8E%E5%8C%96/003.png)
 # 如何安装grub2主题
 要求环境：efi+gpt、archlinux
 我的分区：
 
-![001](picture/001.png)
-![002](picture/002.png)
+![001](https://xuehrs.github.io/2018/05/01/grub2%E7%BE%8E%E5%8C%96/001.png)
+![002](https://xuehrs.github.io/2018/05/01/grub2%E7%BE%8E%E5%8C%96/002.png)
 
 复制文件Griffin-Grub-v2.0到/boot/grub/themes/分区下，里面有个脚本，会自动处理theme主题文件
 ```

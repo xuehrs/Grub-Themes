@@ -1,15 +1,15 @@
-[Introduction-of-documents](README.md) [中文文档](README-zh.md)
+[https://xuehrs.github.io/2018/05/01/grub2%E7%BE%8E%E5%8C%96/003.pnghttps://xuehrs.github.io/2018/05/01/grub2%E7%BE%8E%E5%8C%96/003.pngIntroduction-of-documents](README.md) [中文文档](README-zh.md)
 
 # Explanation
 This is the theme of a Grub2
-![](picture/003.png)
-[Reference picture](picture/003.png)
+![](https://xuehrs.github.io/2018/05/01/grub2%E7%BE%8E%E5%8C%96/003.png)
+[Reference picture](https://xuehrs.github.io/2018/05/01/grub2%E7%BE%8E%E5%8C%96/003.png)
 # How to install the Grub2 theme
 Requirements for the environment: efi+gpt, archlinux
 My partition:
 
-![001](picture/001.png)
-![002](picture/002.png)
+![001](https://xuehrs.github.io/2018/05/01/grub2%E7%BE%8E%E5%8C%96/001.png)
+![002](https://xuehrs.github.io/2018/05/01/grub2%E7%BE%8E%E5%8C%96/002.png)
 
 copy files Griffin-Grub-v2.0 to /boot/grub/themes/ partition, there is a script, will automatically process theme theme files.
 ````
